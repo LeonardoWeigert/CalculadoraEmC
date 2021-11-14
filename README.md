@@ -26,6 +26,10 @@ Processamento do loop e saida de valores:
 
 ![image](https://user-images.githubusercontent.com/93353768/141693238-ab2e6f7c-1025-4f52-ac08-4657e971aba7.png)
 
+Função "calculo" para fazer o processamento dos valores e executar um calculo:
+
+![image](https://user-images.githubusercontent.com/93353768/141694010-0178514c-b502-4224-8963-f3a83fb30a83.png)
+
 Função "parar" para parar o processamento do codigo:
 
 ![image](https://user-images.githubusercontent.com/93353768/141693310-54150d5a-862e-420e-b964-4b586110eb2c.png)
